@@ -21,6 +21,7 @@ This project was created to teach a fire detection model.
 
 
 # Project 2: Airline Passenger Satisfaction ✈️ (In Progress . . .)
+![alt text](Airport.png)
 
 This project was created to teach a fire detection model.
 
@@ -29,6 +30,7 @@ This project was created to teach a fire detection model.
 * **Output:** Classification of photos (Customer Satisfaction Classification)
 
 # Project 3: Gesture detection 🙏 (In Progress . . .)
+![alt text](Gesture.png)
 
 This project was created to teach a gestures detection model.
 
