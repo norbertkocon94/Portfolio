@@ -1,8 +1,14 @@
 ## Welcome to my Portfolio!
 
+| Project                 | Repositories | Release date |
+| ------------------------| -----------  | -----------  |
+| Fire Detection 🔥| [Link](https://github.com/norbertkocon94/Fire_detection_project) | 02.2022 |
+| Airline Passenger Satisfaction ✈️ | In Progress | In Progress |
+| Gesture detection 🙏  | In Progress | In Progress |
+
 # Education
-* Masters of Science (Mechatronics), *University of Silesia in Katowice (Mechatronics)*, 2018-2019
-* Bachelors of Science (Mechatronics), *University of Silesia in Katowice (Mechatronics)*, 2014-2017
+* Masters of Science (Mechatronics), *University of Silesia in Katowice*, 2018-2019
+* Bachelors of Science (Mechatronics), *University of Silesia in Katowice*, 2014-2017
 
 # [Project 1: Fire Detection 🔥](https://github.com/norbertkocon94/Fire_detection_project)
 
@@ -13,17 +19,17 @@ This project was created to teach a fire detection model.
 * **Output:** Classification of photos (Fire/Non-Fire)
 
 
-# [Project 2: Airline Passenger Satisfaction ✈️ (In Progress . . .)]
+# Project 2: Airline Passenger Satisfaction ✈️ (In Progress . . .)
 
 This project was created to teach a fire detection model.
 
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
+* **Python libraries used:** Pandas, Numpy, Sklearn
 * **Input:** Kaggle dataset
 * **Output:** Classification of photos (Customer Satisfaction Classification)
 
-# [Project 3: Gesture detection 🙏 (In Progress . . .)]
+# Project 3: Gesture detection 🙏 (In Progress . . .)
 
-This project was created to teach a fire detection model.
+This project was created to teach a gestures detection model.
 
 * **Python libraries used:** Pandas, Numpy, TensorFlow, Matplotlib, Sklearn
 * **Input:** Own data set
