@@ -11,6 +11,7 @@
 * Bachelors of Science (Mechatronics), *University of Silesia in Katowice*, 2014-2017
 
 # [Project 1: Fire Detection 🔥](https://github.com/norbertkocon94/Fire_detection_project)
+![alt text](Fire.png)
 
 This project was created to teach a fire detection model.
 
