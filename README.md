@@ -3,7 +3,7 @@
 | Project                 | Repositories | Release date |
 | ------------------------| -----------  | -----------  |
 | Fire Detection 🔥| [Link](https://github.com/norbertkocon94/Fire_detection_project) | 02.2022 |
-| Airline Passenger Satisfaction ✈️ | In Progress | In Progress |
+| Airline Passenger Satisfaction ✈️ | [Link](https://github.com/norbertkocon94/Airline-Passenger-Satisfaction) | 03.2022 |
 | Gesture detection 🙏  | In Progress | In Progress |
 
 # Education
