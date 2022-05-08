@@ -20,12 +20,12 @@ This project was created to teach a fire detection model.
 * **Output:** Classification of photos (Fire/Non-Fire)
 
 
-# Project 2: Airline Passenger Satisfaction ✈️ (In Progress . . .)
+# Project 2: Airline Passenger Satisfaction ✈️
 ![alt text](Airport.png)
 
 This project was created to teach a passenger satisfactio model.
 
-* **Python libraries used:** Pandas, Numpy, Sklearn
+* **Python libraries used:** Pandas, Numpy, Auto-Sklearn
 * **Input:** Kaggle dataset
 * **Output:** Classification of satisfaction (Customer Satisfaction Classification)
 
