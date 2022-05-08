@@ -20,7 +20,7 @@ This project was created to teach a fire detection model.
 * **Output:** Classification of photos (Fire/Non-Fire)
 
 
-# Project 2: Airline Passenger Satisfaction ✈️
+# [Project 2: Airline Passenger Satisfaction ✈️](https://github.com/norbertkocon94/Airline-Passenger-Satisfaction)
 ![alt text](Airport.png)
 
 This project was created to teach a passenger satisfactio model.
