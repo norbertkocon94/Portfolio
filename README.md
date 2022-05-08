@@ -1,10 +1,10 @@
 ## Welcome to my Portfolio!
 
-| Project                 | Repositories | Release date |
-| ------------------------| -----------  | -----------  |
-| Fire Detection 🔥| [Link](https://github.com/norbertkocon94/Fire_detection_project) | 02.2022 |
-| Airline Passenger Satisfaction ✈️ | [Link](https://github.com/norbertkocon94/Airline-Passenger-Satisfaction) | 03.2022 |
-| Gesture detection 🙏  | In Progress | In Progress |
+| Project                 | Repositories | Release date | Type |
+| ------------------------| -----------  | -----------  | ---- |
+| Fire Detection 🔥| [Link](https://github.com/norbertkocon94/Fire_detection_project) | 02.2022 | Computer Vision |
+| Airline Passenger Satisfaction ✈️ | [Link](https://github.com/norbertkocon94/Airline-Passenger-Satisfaction) | 03.2022 | Classification |
+| Gesture detection 🙏  | In Progress | In Progress | Computer Vision |
 
 # Education
 * Masters of Science (Mechatronics), *University of Silesia in Katowice*, 2018-2019
